@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratyush Arvind</h1>
-<h3 align="center">Passionate Python Developer</h3>
+<h3 align="center">Exuberant Python Developer</h3>
 
-- 📫 How to reach me **ashu.raj.2149@gmail.com**
+- 📫 Contact Mail **ashu.raj.2149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pratyush-arvind-thinketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyush-arvind-843586218/" height="30" width="40" /></a>
-<a href="https://leetcode.com/Pratyush_Arvind21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pratyush_arvind21/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/pratyush-arvind-thinketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pratyush-arvind-thinketh" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/pratyush.arvind/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/pratyush.arvind/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetcode.com/pratyush_arvind21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/pratyush_arvind21/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
