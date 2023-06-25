@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Pratyush Arvind</h1>
+<h1 align="center">Hi 👋, I'm Pratyush Arvind</h1>
 <h3 align="center">Exuberant Python Developer</h3>
 
 - 📫 Contact Mail **ashu.raj.2149@gmail.com**
