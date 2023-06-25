@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Arvind</h1>
 <h3 align="center">Exuberant Python Developer</h3>
 
-- 👨‍💻 Leetcode Profile [leetcode.com/Pratyush_Arvind21/](leetcode.com/Pratyush_Arvind21/)
-
 - 📫 Contact Mail **ashu.raj.2149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
